@@ -1,0 +1,113 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "体揺れX"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "体揺れY"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "腕動き"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "体の位置X"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "体の位置Y"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "口"
+		},
+		{
+			"Id": "Part2",
+			"Name": "目"
+		},
+		{
+			"Id": "Part3",
+			"Name": "リボン"
+		},
+		{
+			"Id": "Part4",
+			"Name": "手"
+		},
+		{
+			"Id": "Part5",
+			"Name": "体"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}
