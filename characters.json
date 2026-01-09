@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "ANIYA",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/ANIYA/ANIYA.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/ANIYA/preview.png"
+  },
+  {
+    "id": 2,
+    "name": "ASUKA",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/ASUKA/Asuka.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/ASUKA/preview.PNG"
+  },
+  {
+    "id": 3,
+    "name": "CuteThang",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/CuteThang/Cutethang.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/CuteThang/preview.png"
+  },
+  {
+    "id": 4,
+    "name": "generic_boy01",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/generic_boy01/generic_boy_01_001.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/generic_boy01/preview.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hamster",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/Hamster/Hamster.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/Hamster/preview.jpg"
+  },
+  {
+    "id": 6,
+    "name": "IceGirl_Live2d",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/IceGirl_Live2d/IceGirl.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/IceGirl_Live2d/preview.jpg"
+  },
+  {
+    "id": 7,
+    "name": "L2DZero_V1.02",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/L2DZero_V1.02/L2DZeroVS.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/L2DZero_V1.02/preview.png"
+  },
+  {
+    "id": 8,
+    "name": "Pachan_2.0",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/Pachan_2.0/pachirisu%20anime%20girl%20-%20top%20half.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/Pachan_2.0/preview.png"
+  },
+  {
+    "id": 9,
+    "name": "Takodachi",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/Takodachi/takodachi.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/Takodachi/preivew.png"
+  },
+  {
+    "id": 10,
+    "name": "おばけくんモデル",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/%E3%81%8A%E3%81%B0%E3%81%91%E3%81%8F%E3%82%93%E3%83%A2%E3%83%87%E3%83%AB/%E3%81%8A%E3%81%B0%E3%81%91%E3%81%8F%E3%82%93%E3%83%91%E3%83%BC%E3%83%84%E5%88%86%E3%81%91%E3%83%87%E3%83%BC%E3%82%BF0.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/%E3%81%8A%E3%81%B0%E3%81%91%E3%81%8F%E3%82%93%E3%83%A2%E3%83%87%E3%83%AB/preview.png"
+  },
+  {
+    "id": 11,
+    "name": "神宫白子公皮",
+    "cost": 3000,
+    "modelUrl": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/%E7%A5%9E%E5%AE%AB%E7%99%BD%E5%AD%90%E5%85%AC%E7%9A%AE/%E9%9D%A2%E9%A5%BC0.model3.json",
+    "preview": "https://fastly.jsdelivr.net/gh/jynba/live2d-assets/%E7%A5%9E%E5%AE%AB%E7%99%BD%E5%AD%90%E5%85%AC%E7%9A%AE/preview.png"
+  }
+]
